@@ -22,7 +22,7 @@ const posts = [
       {type: 'paragraph', content: 'Resultado: menos erros e deploys muito mais rápidos! ⚡'},
       { type: 'link', content: '👉 Confira o projeto no meu GitHub: github.com/camilarocha/ci-cd-pipeline' }, 
     ], 
-    publishedAt: new Date('2025-10-04 18:45:22'),
+    publishedAt: new Date('2025-04-13 19:45:22'),
   },
   {
     id: 2,
@@ -37,7 +37,7 @@ const posts = [
       { type: 'paragraph', content: 'O impacto foi imediato: mais eficiência, menos sobrecarga no servidor e uma experiência melhor para o usuário final. 🚀' },
       { type: 'link', content: '👉 Veja os detalhes no repositório: github.com/rafaelsouza/api-performance' },
     ], 
-    publishedAt: new Date('2025-10-04 20:01:46'),
+    publishedAt: new Date('2025-04-13 19:01:46'),
   },
 ];
 
